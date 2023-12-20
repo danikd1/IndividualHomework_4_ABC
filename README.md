@@ -51,7 +51,7 @@
 Ниже приведен скриншот работающей программы на малых данных:
 <img width="1792" alt="Снимок экрана 2023-12-20 в 03 56 51" src="https://github.com/danikd1/IndividualHomework_4_ABC/assets/36849026/37393cce-ffaf-407d-9b66-4dee6ab49272">
 
-Cкриншоты на больших данных записаны в output_1.txt, output_2.txt, output_3.txt, output_4.txt
+Cкриншоты на больших данных записаны в output_1.txt, output_2.txt, output_3.txt.
 
 
 
